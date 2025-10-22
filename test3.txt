@@ -1,2 +1,0 @@
-File created test3.txt
-My file has been created
