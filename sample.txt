@@ -1,1 +1,2 @@
-This is a sample file checking pull
+Changed the message in the sample file 
+
