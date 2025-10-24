@@ -1,2 +1,3 @@
 Changed the message in the sample file 
+Get input from the user
 
